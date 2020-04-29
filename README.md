@@ -56,4 +56,4 @@ List of Data Science Cheatsheets :
 
 # Deep Learning
 
-<a href="https://github.com/samirazazy/Data-Science-Cheat-Sheet/blob/master/Deep%20Learning/super-cheatsheet-deep-learning.pdf"><img src="https://github.com/samirazazy/Data-Science-Cheat-Sheet/blob/master/Images/super-cheatsheet-deep-learning.PNG" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Machine Learning<b><br/>
+<a href="https://github.com/samirazazy/Data-Science-Cheat-Sheet/blob/master/Deep%20Learning/super-cheatsheet-deep-learning.pdf"><img src="https://github.com/samirazazy/Data-Science-Cheat-Sheet/blob/master/Images/super-cheatsheet-deep-learning.PNG" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Machine Learning<b><br/>
