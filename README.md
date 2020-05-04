@@ -4,7 +4,7 @@ Taken from <a href="https://github.com/samirazazy/Data-Science-Cheat-Sheet"><str
  
 # Data Science Cheatsheets
 
-List of Data Science Cheatsheets :
+List of Data Science Cheatsheets:
 
 <!-- ## Table of Contents
 
