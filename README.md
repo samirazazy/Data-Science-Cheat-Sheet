@@ -7,7 +7,6 @@ Taken from <a href="https://github.com/samirazazy/Data-Science-Cheat-Sheet"><str
 List of Data Science Cheatsheets:
 
 <!-- ## Table of Contents
-
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
 - [Big Data](Big%20Data/README.md)
 - [Data Engineering](Data%20Engineering/README.md)
